@@ -1,0 +1,19 @@
+{
+  "networkFeeReceiver": "0xCF8D2Da12A032b3f3EaDC686AB18551D8fD6c132",
+  "infrastructureFeeCollector": "0xCF8D2Da12A032b3f3EaDC686AB18551D8fD6c132",
+  "staker": "0x4Bf6dfb765Af974236471F8e83153567740148CC",
+  "batchPoster": "0xe66A633f1Ff2a922804f8C3708dc715d68d20Ec6",
+  "chainOwner": "0xCF8D2Da12A032b3f3EaDC686AB18551D8fD6c132",
+  "chainId": 1729,
+  "chainName": "IdentityVerse Chain",
+  "minL2BaseFee": 100000000,
+  "rollup": "0xdd176C5CE8fF7ED6d91e267a3C55f8866e25cfc9",
+  "inbox": "0x6ec7232E8C30ddB17F003b0AcD9c5F6636caDAa1",
+  "outbox": "0xe86016B1393655b0D418E3B58070EE8655a16022",
+  "adminProxy": "0x3E07f4bCef1E818c7f8aF6104d8a511a7C87Fd74",
+  "sequencerInbox": "0x1c5473375CcA8F6B55d6FDA4CE792Be992f32fC0",
+  "bridge": "0x37CE79cC26330101525532D44A56Fe5e7e88Ecf5",
+  "utils": "0x7E63CA513144B98CD5bc0D78cA3CeB069734FF32",
+  "validatorWalletCreator": "0x6e70f0696ACeFA02eF5b7Ef7D3eE0637d2dfE623",
+  "deployedAtBlockNumber": 36858165
+}
